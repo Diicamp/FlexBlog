@@ -385,3 +385,12 @@ img {
     order: -1;
   }
 }
+
+@media (max-width: 425px) {
+  .menu, .superinfo {
+    justify-content: center;
+  }
+
+  
+}
+
